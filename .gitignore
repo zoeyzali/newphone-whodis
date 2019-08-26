@@ -1,0 +1,11 @@
+# dependencies 
+/node_modules
+/.pnp
+.env.development
+
+\.DS_Store
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
